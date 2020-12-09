@@ -1,7 +1,8 @@
 # Photo Gallery App
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f060bf59-3202-4307-b938-3d263be70294/deploy-status)](https://app.netlify.com/sites/dmatis-photogallery/deploys)
 
 This app was created as part of the [Modern React with Redux Course](https://www.udemy.com/course/react-redux/) on Udemy.
-![Photo Gallery Screenshot](public/img/photo-gallery.png)
+[![Photo Gallery Screenshot](public/img/photo-gallery.png)](https://dmatis-photogallery.netlify.app/)
 
 ## To Start the Development Server
 
